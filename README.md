@@ -17,6 +17,9 @@ An intelligent, real-time appointment booking system that uses Gemini AI to hand
 
 ![Chat Sample](https://raw.githubusercontent.com/Nneoma00/whatsapp_ai_bot/main/images/chat-w-twilio.jpg)
 
+![Chat Sample](images/chat-w-twilio.jpg)
+
+
 
 
 
