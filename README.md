@@ -1,6 +1,9 @@
 # AI-Powered WhatsApp Appointment Bot for Realtors
 
 An intelligent, real-time appointment booking system that uses Gemini AI to handle natural conversations via WhatsApp, automatically detects scheduling conflicts, and syncs with Google Sheets for seamless schedule management.
+Workflow Image Below ⬇️
+
+![Workflow Diagram](https://github.com/Nneoma00/whatsapp_ai_bot/blob/main/images/whatsapp-bot-flow.png)
 
 ## Features
 
